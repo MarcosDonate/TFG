@@ -1,8 +1,8 @@
-
+==================================================================
         OPTIMIZACIÓN METAHEURÍSTICA PARA RESOLVER EL
         EL PROBLEMA DE AGREGACIÓN DE RANKINGS GENERALIZADO
         A UN CONJUNTO DE BUCKET ORDERS ÓPTIMOS (OSBOP)
-
+==================================================================
 
 Este proyecto implementa y compara tres algoritmos metaheurísticos para resolver
 el Problema del Conjunto Óptimo de Bucket Orders (OSBOP). El objetivo es
