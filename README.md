@@ -1,4 +1,4 @@
-==================================================================
+
         OPTIMIZACIÓN METAHEURÍSTICA PARA RESOLVER EL
         EL PROBLEMA DE AGREGACIÓN DE RANKINGS GENERALIZADO
         A UN CONJUNTO DE BUCKET ORDERS ÓPTIMOS (OSBOP)
