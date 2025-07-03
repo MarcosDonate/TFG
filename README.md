@@ -1,8 +1,5 @@
-=
-        OPTIMIZACIÓN METAHEURÍSTICA PARA RESOLVER EL
-        EL PROBLEMA DE AGREGACIÓN DE RANKINGS GENERALIZADO
-        A UN CONJUNTO DE BUCKET ORDERS ÓPTIMOS (OSBOP)
-=
+
+# OPTIMIZACIÓN METAHEURÍSTICA PARA RESOLVER EL PROBLEMA DE AGREGACIÓN DE RANKINGS GENERALIZADO A UN CONJUNTO DE BUCKET ORDERS ÓPTIMOS (OSBOP)
 
 Este proyecto implementa y compara tres algoritmos metaheurísticos para resolver
 el Problema del Conjunto Óptimo de Bucket Orders (OSBOP). El objetivo es
@@ -50,4 +47,4 @@ Al finalizar la ejecución, el script generará dos tipos de salida:
 
 1.  **En la Consola**: Se imprimirá una tabla resumen, generada con la librería `rich`, que muestra las estadísticas de rendimiento (media de fitness, desviación estándar, mejor resultado, tiempos de ejecución, etc.) para cada algoritmo en cada dataset procesado.
 
-2.  **Archivos de Gráficos**: Se guardarán imágenes en formato `.png` con los gráficos de escalabilidad. Por defecto, se guardarán en el directorio 'gráficas'.
+2.  **Archivos de Gráficos**: Se guardarán imágenes en formato `.png` con los gráficos de escalabilidad. Por defecto, se guardarán en el directorio `gráficas`.
